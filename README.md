@@ -10,9 +10,9 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **StormScreen** project
+ 🔭 Currently cooking [https://github.com/stormcloak51/StormScreen](StormScreen) project
  
- 🌱 I’m currently learning **TypeScript, JWT**
+ 🌱 Currently learning **TypeScript, JWT**
 
 
  </div>
