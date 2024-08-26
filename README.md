@@ -13,10 +13,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Stack ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,sass,react,typescript,redux,vscode,github,figma,tailwind,git,npm" />
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,sass,react,typescript,redux,figma,tailwind,git,npm" />
 </div>
 
 <br/>
