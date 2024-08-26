@@ -10,7 +10,7 @@
 
 <div align="left">
  
- 🔭 Currently cooking [https://github.com/stormcloak51/StormScreen](StormScreen) project
+ 🔭 Currently cooking [StormScreen](https://github.com/stormcloak51/StormScreen) project
  
  🌱 Currently learning **TypeScript, JWT**
 
