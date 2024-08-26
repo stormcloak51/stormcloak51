@@ -8,13 +8,12 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **StormScreen** project
  
  🌱 I’m currently learning **TypeScript, JWT**
 
-⚡ Fun fact about Skyrim **The Illusion perk that makes you spell casts silent also makes all your Shouts silent. Invaluable for the sneaky types**
 
  </div>
 
