@@ -54,6 +54,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F7CB&center=true&width=435&lines=Hustle+in+silence)](https://git.io/typing-svg)
-
+<h1 align='center'>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F7CB&center=true&width=435&lines=Hustle+in+silence" alt="Typing SVG" /></a>
+</h1>
 <br/>
