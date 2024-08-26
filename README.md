@@ -1,5 +1,5 @@
 <h3 align="left">😊 A solid front-end developer from Russia</h3>
-
+<hr>
 <br/>
 
 <div align="left">
