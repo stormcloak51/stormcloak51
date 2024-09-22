@@ -6,7 +6,7 @@
  
  🔭 Currently cooking [StormScreen](https://github.com/stormcloak51/StormScreen) project
  
- 🌱 Currently learning **TypeScript, JWT**
+ 🌱 Currently learning **Next JS, Nest JS**
 
 
  </div>
