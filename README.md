@@ -4,7 +4,7 @@
 
 <div align="left">
  
- 🔭 Currently cooking [StormScreen](https://github.com/stormcloak51/StormScreen) project
+ 🔭 Currently cooking [StormScreen](https://github.com/stormcloak51/lumine) project (Social Network)
  
  🌱 Currently learning **Next JS, Nest JS**
 
