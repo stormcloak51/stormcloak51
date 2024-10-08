@@ -16,7 +16,7 @@
 <h2 align="left">⚒️ Stack ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,sass,react,typescript,redux,figma,tailwind,git,npm" />
+    <img src="https://skillicons.dev/icons?i=html,sass,react,prisma,nest,typescript,redux,figma,tailwind,git,npm" />
 </div>
 
 <br/>
