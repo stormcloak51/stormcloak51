@@ -17,6 +17,7 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,sass,react,typescript,next,redux,zustand,tailwind,vite,figma,prisma,nest,docker,redis,git,npm" />
+    <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" />
 </div>
 
 <br/>
