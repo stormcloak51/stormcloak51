@@ -6,7 +6,7 @@
  
  🔭 Currently cooking [lumine](https://github.com/stormcloak51/lumine) project (Social Network)
  
- 🌱 Currently learning **Next JS, Nest JS**
+ 🌱 Currently learning **testing libraries**
 
 
  </div>
