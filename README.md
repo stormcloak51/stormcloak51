@@ -6,7 +6,7 @@
  
  🔭 Currently cooking [lumine](https://github.com/stormcloak51/lumine) project (Social Network)
  
- 🌱 Currently learning **testing libraries**
+ 🌱 Currently learning **react**
 
 
  </div>
