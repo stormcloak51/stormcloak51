@@ -3,21 +3,12 @@
 <br/>
 
 <div align="left">
- 
- 🔭 Currently working at [Keyguardian](https://keyguardian.org)
- 
- 🌱 Currently learning **react**
-
+ Заголовок первого уровня
+ ну я этот, как его, фронтендер, да
 
  </div>
 
  <hr/>
- 
-<h2 align="left">⚒️ Stack ⚒️</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=html,sass,react,typescript,next,redux,tailwind,vite,figma,prisma,nest,docker,redis,git,npm" />
-</div>
 
 <br/>
 
