@@ -1,4 +1,4 @@
-<h3 align="left">A solid front-end developer from Russia</h3>
+<h3 align="left">666 conspiracy theorist 9/11 jfk pfizer bill gates ticks lone star adrenochrome no future</h3>
 <hr>
 <br/>
 
